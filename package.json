@@ -9,7 +9,7 @@
     "esm"
   ],
   "description": "Collection of shader materials for three.js",
-  "repository": "https://MasatoMakino@github.com/MasatoMakino/threejs-shader-materials.git",
+  "repository": "https://cigncloud@github.com/cigncloud/threejs-shader-materials.git",
   "author": "MasatoMakino <unagiinu.g@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
